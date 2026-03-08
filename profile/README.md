@@ -6,7 +6,7 @@ The platform automatically generates and executes command-based pipelines from s
 
 ## Features
 
-* AI-generated build pipelines
+* simple build pipelines
 * Command-based execution (no complex pipeline syntax)
 * GitHub webhook integration
 * Automated build and deployment workflows
